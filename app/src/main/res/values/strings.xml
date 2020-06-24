@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyCoroutines</string>
+    <string name="startLaunchDispatcherIO">Start Coroutine Launch Dispatcher IO</string>
+    <string name="startRunBlocking">Start Coroutine Run Blocking</string>
+    <string name="startUsingAsync">Start Coroutine async</string>
+    <string name="startWithTimeout">Start Coroutine with timeout</string>
+    <string name="toggle_to_start_coroutine">Toggle to start coroutine</string>
+    <string name="toggle_to_cancel_coroutine">Toggle to cancel coroutine</string>
+</resources>
